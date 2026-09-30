@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+# VSFS generated files
+*.img
+vsfs.img
+mkfs
+validator
+journal
